@@ -4,7 +4,7 @@ An app that will recommend you movies based on content and collaborative based f
 1. Clone the git repository in your cmd/powershell
 2. Install python(latest version)
 3. Install pycharm using this [link](https://www.jetbrains.com/pycharm/download/#section=windows)
-4. Make a new project on pycharm with venv  using base interpreter of latest version of python installed and add files(indices.pkl,links.pkl,links1.pkl,main.py,matrix.pkl,movies.pkl,svd1.pkl,users.pkl to it
+4. Make a new project on pycharm with venv  using base interpreter of latest version of python installed and add files(indices.pkl,links.pkl,links1.pkl,main.py,matrix.pkl,movies.pkl,svd1.pkl,users.pkl) to it
 5. In the terminal install the streamlit package using the command:
     `pip install streamlit`
 6. Install scikit-surprise using the commands:
@@ -17,6 +17,10 @@ An app that will recommend you movies based on content and collaborative based f
 7. In the terminal now run:
    `streamlit run main.py`
    
-  ** You are good to go**
+             ** You are good to go**
+             
+             
+ ### More about the project :
+ You can see the full code present in recommender.ipynb file , the datasets are given in the dataset folder and are picked from kaggle.
   
   
