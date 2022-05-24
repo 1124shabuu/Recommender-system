@@ -17,7 +17,7 @@ An app that will recommend you movies based on content and collaborative based f
 7. In the terminal now run:
    `streamlit run main.py`
    
-             ** You are good to go**
+           
              
              
  ### More about the project :
